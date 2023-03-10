@@ -1,0 +1,33 @@
+body {
+  margin: 40px;
+}
+
+header {
+  background-color: lightcyan;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+}
+
+section {
+  background-color: lightcyan;
+}
+
+a {
+  color: orange;
+  background-color: white;
+}
+
+img {
+  width: 30%;
+}
+
+th {
+  text-align: left;
+}
